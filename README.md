@@ -1,4 +1,8 @@
 # 🌿 ASD Spectral Signature Dashboard
+  
+## Dashboard Preview
+
+![Dashboard](images/1.jpg)
 
 ## 🚀 Overview
 
