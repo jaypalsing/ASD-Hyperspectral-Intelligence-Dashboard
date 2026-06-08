@@ -2,7 +2,7 @@
   
 ## Dashboard Preview
 
-![Dashboard](assets/1.JPG)
+![Dashboard](assets/1.png)
 
 ## 🚀 Overview
 
